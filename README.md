@@ -45,4 +45,41 @@ bigquery-public-data.hacker_news.full
 8. Top 3 posts are in a completely different league from rank 4 onwards
 9. Most "consistent" authors still have unpredictable score ranges
 10. Reliability rank reveals km as the most dependable viral author
+    
+## Statistical Analysis
+14. Mean vs Median — central tendency
+15. Standard deviation — spread of scores
+16. Percentile distribution
+17. Correlation between score and comments
+18. Outlier detection using IQR method
+
+## Key Findings
+
+The data tells a clear story — Hacker News is a brutally 
+competitive platform where going viral is extremely rare.
+
+Mean score is 13.7 but median is just 2 — meaning the 
+average is completely distorted by a handful of extreme 
+posts like Stephen Hawking's death announcement (6015 
+upvotes). The typical post gets just 2 upvotes.
+
+Standard deviation of 59.79 is 4x bigger than the mean 
+itself — confirming massive inequality in post performance. 
+Most posts cluster at the bottom while a tiny minority 
+explodes to thousands of upvotes.
+
+Percentile breakdown makes this even clearer:
+- 75% of all posts score below 4
+- Top 10% starts at just 17 upvotes
+- Top 1% starts at 256 upvotes
+
+Score and comment count show a strong correlation of 0.78
+— viral posts attract both upvotes and discussion 
+simultaneously. Post quality likely drives both at once.
+
+Outlier detection using the IQR method reveals the upper 
+fence sits at just 8.5 — so technically any post scoring 
+above 8 is an outlier. 14% of posts qualify, confirming 
+Hacker News follows a classic Power Law distribution where 
+a small minority captures almost all the attention.
 
