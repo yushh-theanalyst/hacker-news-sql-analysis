@@ -25,8 +25,8 @@ bigquery-public-data.hacker_news.full
 9. Which authors are most consistent?
 10. What % of posts are dead or deleted?
 
-print("""
-KEY INSIGHTS FROM HACKER NEWS ANALYSIS
+
+## KEY INSIGHTS FROM HACKER NEWS ANALYSIS
 =======================================
 
 BASIC ANALYSIS:
@@ -42,4 +42,4 @@ ADVANCED ANALYSIS:
 8. Top 3 posts are in a completely different league from rank 4 onwards
 9. Most "consistent" authors still have unpredictable score ranges
 10. Reliability rank reveals km as the most dependable viral author
-""")
+
