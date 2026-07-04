@@ -25,9 +25,21 @@ bigquery-public-data.hacker_news.full
 9. Which authors are most consistent?
 10. What % of posts are dead or deleted?
 
-## Key Insights
-- Stephen Hawking's death = most viral post ever (6015 upvotes)
-- km is the most consistent high-performing author
-- Comments make up ~80% of all HN content
-- Going viral is RARE majority of posts score below 10
-- Tech controversies dominate top posts
+print("""
+KEY INSIGHTS FROM HACKER NEWS ANALYSIS
+=======================================
+
+BASIC ANALYSIS:
+1. Stephen Hawking's death post = most viral ever (6015 upvotes)
+2. Tech controversies & deaths dominate top posts
+3. km is the most consistent author (avg 425 score per post)
+4. Comments make up ~80% of all content on HN
+5. Majority of posts score below 10 — going viral is RARE
+
+ADVANCED ANALYSIS:
+6. Stephen Hawking post scored 439x above average — true All Time Legend
+7. Biggest virality cliff = rank 3 to rank 4 (-1161 points / -20% drop)
+8. Top 3 posts are in a completely different league from rank 4 onwards
+9. Most "consistent" authors still have unpredictable score ranges
+10. Reliability rank reveals km as the most dependable viral author
+""")
