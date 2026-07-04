@@ -46,7 +46,7 @@ bigquery-public-data.hacker_news.full
 9. Most "consistent" authors still have unpredictable score ranges
 10. Reliability rank reveals km as the most dependable viral author
     
-## Statistical Analysis
+## STATISTICAL ANALYSIS
 14. Mean vs Median — central tendency
 15. Standard deviation — spread of scores
 16. Percentile distribution
