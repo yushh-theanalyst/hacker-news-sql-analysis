@@ -36,7 +36,7 @@ BASIC ANALYSIS:
 4. Comments make up ~80% of all content on HN
 5. Majority of posts score below 10 — going viral is RARE
 
-ADVANCED ANALYSIS:
+## ADVANCED ANALYSIS:
 6. Stephen Hawking post scored 439x above average — true All Time Legend
 7. Biggest virality cliff = rank 3 to rank 4 (-1161 points / -20% drop)
 8. Top 3 posts are in a completely different league from rank 4 onwards
