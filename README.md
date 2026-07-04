@@ -30,7 +30,7 @@ bigquery-public-data.hacker_news.full
 
 
 ## KEY INSIGHTS FROM HACKER NEWS ANALYSIS
-=======================================
+
 
 ## BASIC ANALYSIS:
 1. Stephen Hawking's death post = most viral ever (6015 upvotes)
