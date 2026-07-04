@@ -24,6 +24,9 @@ bigquery-public-data.hacker_news.full
 8. How do posts break down by popularity tier?
 9. Which authors are most consistent?
 10. What % of posts are dead or deleted?
+11. Which posts are true outliers?   
+12. Where does virality drop off?      
+13. Who are the reliable authors?      
 
 
 ## KEY INSIGHTS FROM HACKER NEWS ANALYSIS
